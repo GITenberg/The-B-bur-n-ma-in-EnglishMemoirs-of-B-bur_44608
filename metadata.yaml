@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '42838'
     url: http://www.gutenberg.org/2009/agents/42838
 description: I. Farghāna. Kābul. -- II. Hindūstān.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44608#The-B-bur-n-ma-in-EnglishMemoirs-of-B-bur
 gutenberg_issued: '2014-01-07'
 gutenberg_type: Text
 identifiers:
