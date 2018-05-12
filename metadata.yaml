@@ -1,0 +1,46 @@
+_repo: The-B-bur-n-ma-in-EnglishMemoirs-of-B-bur_44608
+_version: 0.1.0
+alternative_title: Bāburnāmah. English
+contributor:
+  translator:
+    agent_name: Beveridge, Annette Susannah
+    alias: Beveridge, Annette Susannah (Akroyd)
+    birthdate: 1842
+    deathdate: 1929
+    gutenberg_agent_id: '46781'
+    url: http://www.gutenberg.org/2009/agents/46781
+covers:
+- cover_type: archival
+  image_path: 44608-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Babur, Emperor of Hindustan
+    aliases:
+    - Bobir, Zahiriddin Muhammad, Emperor of Hindustan
+    - Zakhir ad-Din Mukhammed Babur, Emperor of Hindustan
+    - Zahiruddin Muhammed Babur, Emperor of Hindustan
+    - Babur, Zakhir ad-Din Mukhammed, Emperor of Hindustan
+    - Babar, Emperor of Hindustan
+    - Zahiriddin Muhammad Bobir, Emperor of Hindustan
+    - Babyr, Zahyreddin Muhammet, Emperor of Hindustan
+    - Baber, Emperor of Hindustan
+    - Zakhiriddin Mukhammad Babur, Emperor of Hindustan
+    birthdate: 1483
+    deathdate: 1530
+    gutenberg_agent_id: '42838'
+    url: http://www.gutenberg.org/2009/agents/42838
+description: I. Farghāna. Kābul. -- II. Hindūstān.
+gutenberg_issued: '2014-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Babur, Emperor of Hindustan, 1483-1530'
+- !lcsh 'Mogul Empire'
+title: The Bābur-nāma in English (Memoirs of Bābur)
+url: http://www.gutenberg.org/ebooks/44608
